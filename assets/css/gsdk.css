@@ -8,6 +8,7 @@
  * Copyright 2017 Creative Tim (http://www.creative-tim.com)
  * Licensed under MIT (https://github.com/timcreative/get-shit-done/blob/master/LICENSE.md)
  
+
  =========================================================
  
  * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
@@ -1388,6 +1389,11 @@ input.ct-red + span + label + span.switch-right {
 
 .navbar-ct-red {
   background-color: rgba(255, 76, 64, 0.98); }
+
+.navbar-ct-gradien-green {
+    background: linear-gradient(45deg,#00664e 0,#00b5a0 100%);
+}
+    
 
 .navbar-transparent {
   padding-top: 15px;
